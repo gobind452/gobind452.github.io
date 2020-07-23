@@ -12,9 +12,9 @@ author: Gobind Singh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Miscellaneous:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research: "research"
+  Courses: "courses"
+  Blog: "blog"
   CV: "cv"
 
 # --- Logo --- #
