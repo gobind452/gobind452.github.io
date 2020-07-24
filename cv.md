@@ -3,5 +3,6 @@ layout: home
 title: 
 subtitle: 
 ---
-
-![Under Construction](assets/img/simpsons.jpg)
+<div align="center">
+	<<img src="assets/img/simpsons.jpg" alt="Under Construction" />
+</div>
